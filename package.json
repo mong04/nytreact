@@ -1,0 +1,20 @@
+{
+  "name": "nytreact",
+  "version": "1.0.0",
+  "description": "React-based rendition of the New York Times Article Search application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mong04/nytreact.git"
+  },
+  "author": "Andrew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mong04/nytreact/issues"
+  },
+  "homepage": "https://github.com/mong04/nytreact#readme"
+}
